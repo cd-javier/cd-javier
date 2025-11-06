@@ -5,7 +5,7 @@ UX/UI Designer & Web Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,git" />
     </br>
     <img src="https://skillicons.dev/icons?i=figma,vscode,github" />
   </a>
@@ -24,7 +24,7 @@ With a background in service and management, I bring a user-first mindset to eve
     class Developer extends Designer {
         constructor() {
             super();
-            this.languages = ["JavaScript", "React", "Node.js"];
+            this.languages = ["TypeScript", "React", "Node.js"];
             this.tools = ["VS Code", "Git", "Figma"];
             this.problemSolving = "Methodical & Efficient";
         }
